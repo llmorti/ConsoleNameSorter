@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleNameSorter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\lloyd\\Documents\\unsorted-names-list.txt\""
+    }
+  }
+}
